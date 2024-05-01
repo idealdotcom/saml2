@@ -1,5 +1,5 @@
 {
-  "name": "saml2-js",
+  "name": "@idealdotcom/saml2-js",
   "version": "4.0.2",
   "description": "SAML 2.0 node helpers",
   "author": "Clever",
